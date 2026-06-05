@@ -100,7 +100,7 @@ The robot's operational logic is governed by a strict state machine to ensure re
 
 
 ## Project Demonstration
-Here you can see the full presentation and demonstration of the Auto Ware Robot in action, showcasing the entire workflow from room mapping to autonomous coordinate navigation.
+Here you can see the video of the Auto Ware Robot in action.
 
 <p align="center">
   
